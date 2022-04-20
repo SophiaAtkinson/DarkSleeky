@@ -18,3 +18,8 @@
 4. Move the `sleeky-backend` folder to the `user/plugins/` folder of your YOURLS installation.
 5. Activate the plugin in the YOURLS admin area (`example.com/admin/plugins.php`). The plugin will show as Sleeky Backend.
 6. Done. Sleeky is now installed
+
+
+## Help
+Need a hand? I would love to help you out! Message Me on discord (SophiaXD#3076). Alternatively, you could open an issue on GitHub.
+I will have long term support for this theme.
