@@ -16,7 +16,7 @@
 3. Open the frontend/config.php file and change the values to suit (Remember to setup reCAPTCHA).
 *Sleeky frontend is now installed a ready*
 4. Move the `sleeky-backend` folder to the `user/plugins/` folder of your YOURLS installation.
-5. Activate the plugin in the YOURLS admin area (`example.com/admin/plugins.php`). The plugin will show as Sleeky Backend.
+5. Activate the plugin in the YOURLS admin area (`sho.rt/admin/plugins.php`). The plugin will show as Sleeky Backend.
 6. Done. Sleeky is now installed
 
 
