@@ -5097,7 +5097,7 @@ textarea.form-control-lg {
   height: 1em;
   padding: 0.25em 0.25em;
   color: #000;
-  background: transparent url("https://sop.wtf/frontend/assets/svg/x.svg") center/1em auto no-repeat;
+  background: transparent url("/frontend/assets/svg/x.svg") center/1em auto no-repeat;
   border: 0;
   border-radius: 6px;
   opacity: 1.0;
