@@ -1,5 +1,5 @@
 ## DarkSleeky
-
+# Support for DS has moved to [git.oldgate.org](https://git.oldgate.org)
 ## Based on Sleeky by Flynntes
 
 ### The Sleeky frontend isn't dark mode, so I made it dark mode.
