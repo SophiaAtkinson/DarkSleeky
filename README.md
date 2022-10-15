@@ -21,5 +21,5 @@
 
 
 ## Help
-Need a hand? I would love to help you out! Message Me on discord (SophiaXD#3076). Alternatively, you could open an issue on GitHub.
+Need a hand? I would love to help you out! Message Me on discord (SophiaXD#3076). Alternatively, you could open an issue on [git.oldgate.org](https://git.oldgate.org/Sophia/DarkSleeky/issues/new).
 I will have long term support for this theme.
